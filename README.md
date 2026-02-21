@@ -1,16 +1,16 @@
-## Hey, I'm Kaushik
+## Kaushik Rajan
 
-Engineer and applied scientist with a decade in industry (4 years at Amazon forecasting ~$50B in ad revenue). MS in Computer Science from NC State.
+Engineer and computer scientist. MS in Computer Science from NC State. 4 years as a data scientist at Amazon, forecasting ~$50B in ad revenue.
 
-Now building [Origin Labs](https://kaushikrajan.me) — a solo, bootstrapped product studio scaled through AI-agent orchestrated workflows — while pursuing a PhD in applied AI (Fall 2026).
+Now running [Origin Labs](https://kaushikrajan.me), a solo bootstrapped applied science business scaled through AI-agent orchestrated workflows. Applying for PhD positions in applied AI (Fall 2026 entry, DACH region priority).
 
 ---
 
 ### Research Interests
 
-- **Multi-agent reinforcement learning** — cooperative AI, emergent communication, value decomposition
-- **Causal inference & explainable AI** — structural causal models, counterfactual reasoning, Shapley-based attribution
-- **Game theory & mechanism design** — incentive compatibility, strategic decision making
+- **Multi-agent reinforcement learning:** cooperative AI, emergent communication, value decomposition
+- **Causal inference & explainable AI:** structural causal models, counterfactual reasoning, Shapley-based attribution
+- **Game theory & mechanism design:** incentive compatibility, strategic decision making
 
 ### Publications
 
@@ -30,10 +30,10 @@ Now building [Origin Labs](https://kaushikrajan.me) — a solo, bootstrapped pro
 
 | Product | Users | What |
 |:--------|------:|:-----|
-| [aiforcode.io](https://aiforcode.io) | 6.8K | AI coding tools directory — benchmarks, quizzes, 120+ comparisons |
-| [aipmtools.org](https://aipmtools.org) | 1.6K | AI PM tools directory — weighted rubric scoring, 65+ tools |
+| [aiforcode.io](https://aiforcode.io) | 6.8K | AI coding tools directory (benchmarks, quizzes, 120+ comparisons) |
+| [aipmtools.org](https://aipmtools.org) | 1.6K | AI PM tools directory (weighted rubric scoring, 65+ tools) |
 
-74 technical articles on [Medium](https://kaushikvr06.medium.com/) — 26.8K views, 9.6K reads, 348 followers.
+74 technical articles on [Medium](https://kaushikvr06.medium.com/): 26.8K views, 9.6K reads, 348 followers.
 
 ---
 
