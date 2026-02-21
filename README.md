@@ -1,28 +1,43 @@
 ## Hey, I'm Kaushik
 
-Engineer and Computer Scientist building digital products through AI-agent orchestrated workflows with human-in-the-loop feedback.
+Engineer and applied scientist with a decade in industry (4 years at Amazon forecasting ~$50B in ad revenue). MS in Computer Science from NC State.
 
-**Currently:** Researching agentic AI systems, causal inference, and game-theoretic decision making — building toward a PhD (Fall 2026).
-
-**Building:** Solo-founder products at the intersection of AI tooling and consumer utility.
+Now building [Origin Labs](https://kaushikrajan.me) — a solo, bootstrapped product studio scaled through AI-agent orchestrated workflows — while pursuing a PhD in applied AI (Fall 2026).
 
 ---
 
-### What I'm working on
+### Research Interests
 
-- Agentic systems and autonomous AI workflows
-- Causal credit assignment in human-AI interaction ([shapley-hri-attribution](https://github.com/kvr06-ai/shapley-hri-attribution))
-- Multi-agent reinforcement learning ([trust-based-public-goods-game](https://github.com/kvr06-ai/trust-based-public-goods-game))
-- AI tool directories: [aiforcode.io](https://aiforcode.io) / [aipmtools.org](https://aipmtools.org)
+- **Multi-agent reinforcement learning** — cooperative AI, emergent communication, value decomposition
+- **Causal inference & explainable AI** — structural causal models, counterfactual reasoning, Shapley-based attribution
+- **Game theory & mechanism design** — incentive compatibility, strategic decision making
+
+### Publications
+
+- Rajan, K. & Arango, D. (2025). *Multi-Agent AI: From Isolated Agents to Cooperative Ecosystems.* [Theoretical CS eJournal; Games & Political Behavior eJournal]
+- Rajan, K. & Arango, D. (2025). *Behavioral Multi-Agent Systems: Integrating Human Decision-Making into AI Cooperation.* [Theoretical CS eJournal]
+- Rajan, K., Arango-Aramburo, S. & Arango, D. (2025). *Beyond Rationality: Engineering Human-like Cooperation in AI Agents.* [Submitted to European Journal of Operations Research]
+
+### Research Repos
+
+| Repo | Area |
+|:-----|:-----|
+| [trust-based-public-goods-game](https://github.com/kvr06-ai/trust-based-public-goods-game) | Multi-agent RL with trust dynamics and public goods |
+| [shapley-hri-attribution](https://github.com/kvr06-ai/shapley-hri-attribution) | Causal credit assignment in human-robot interaction via Shapley values |
+| [self-play-reasoning](https://github.com/kvr06-ai/self-play-reasoning) | Self-play reasoning (SPIRAL paper implementation) |
+
+### Products (Origin Labs)
+
+| Product | Users | What |
+|:--------|------:|:-----|
+| [aiforcode.io](https://aiforcode.io) | 6.8K | AI coding tools directory — benchmarks, quizzes, 120+ comparisons |
+| [aipmtools.org](https://aipmtools.org) | 1.6K | AI PM tools directory — weighted rubric scoring, 65+ tools |
+
+74 technical articles on [Medium](https://kaushikvr06.medium.com/) — 26.8K views, 9.6K reads, 348 followers.
 
 ---
 
 ### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvr06-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvr06-ai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvr06-ai&theme=tokyonight&hide_border=true" />
@@ -32,8 +47,16 @@ Engineer and Computer Scientist building digital products through AI-agent orche
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvr06-ai&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvr06-ai&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kvr06-ai&theme=tokyonight&utcOffset=5.5" height="170" />
+</p>
+
 ---
 
 ### Connect
 
 [![Website](https://img.shields.io/badge/kaushikrajan.me-000?style=flat&logo=safari&logoColor=white)](https://kaushikrajan.me)
+[![Medium](https://img.shields.io/badge/Medium-000?style=flat&logo=medium&logoColor=white)](https://kaushikvr06.medium.com/)
+[![SSRN](https://img.shields.io/badge/SSRN-154881?style=flat&logo=ssrn&logoColor=white)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7017868)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DU_lorIAAAAJ&hl=en)
