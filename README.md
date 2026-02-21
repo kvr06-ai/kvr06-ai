@@ -1,6 +1,6 @@
 ## Kaushik Rajan
 
-Engineer and computer scientist. MS in Computer Science from NC State. 4 years as a data scientist at Amazon, forecasting ~$50B in ad revenue.
+Engineer and computer scientist with a decade of experience across engineering and applied science (including 4 years at Amazon as a scientist). MS in Computer Science from NC State.
 
 Now running [Origin Labs](https://kaushikrajan.me), a solo bootstrapped applied science business scaled through AI-agent orchestrated workflows. Applying for PhD positions in applied AI (Fall 2026 entry, DACH region priority).
 
