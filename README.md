@@ -1,39 +1,8 @@
 ## Kaushik Rajan
 
-Engineer and computer scientist with a decade of experience across engineering and applied science (including 4 years at Amazon as a scientist). MS in Computer Science from NC State.
+Engineer and computer scientist with a decade of experience across engineering and applied science (including 4 years at Amazon as a scientist). MS in Computer Science from NC State (NCSU).
 
-Now running [Origin Labs](https://kaushikrajan.me), a solo bootstrapped applied science business scaled through AI-agent orchestrated workflows. Applying for PhD positions in applied AI (Fall 2026 entry, DACH region priority).
-
----
-
-### Research Interests
-
-- **Multi-agent reinforcement learning:** cooperative AI, emergent communication, value decomposition
-- **Causal inference & explainable AI:** structural causal models, counterfactual reasoning, Shapley-based attribution
-- **Game theory & mechanism design:** incentive compatibility, strategic decision making
-
-### Publications
-
-- Rajan, K. & Arango, D. (2025). *Multi-Agent AI: From Isolated Agents to Cooperative Ecosystems.* [Theoretical CS eJournal; Games & Political Behavior eJournal]
-- Rajan, K. & Arango, D. (2025). *Behavioral Multi-Agent Systems: Integrating Human Decision-Making into AI Cooperation.* [Theoretical CS eJournal]
-- Rajan, K., Arango-Aramburo, S. & Arango, D. (2025). *Beyond Rationality: Engineering Human-like Cooperation in AI Agents.* [Submitted to European Journal of Operations Research]
-
-### Research Repos
-
-| Repo | Area |
-|:-----|:-----|
-| [trust-based-public-goods-game](https://github.com/kvr06-ai/trust-based-public-goods-game) | Multi-agent RL with trust dynamics and public goods |
-| [shapley-hri-attribution](https://github.com/kvr06-ai/shapley-hri-attribution) | Causal credit assignment in human-robot interaction via Shapley values |
-| [self-play-reasoning](https://github.com/kvr06-ai/self-play-reasoning) | Self-play reasoning (SPIRAL paper implementation) |
-
-### Products (Origin Labs)
-
-| Product | Users | What |
-|:--------|------:|:-----|
-| [aiforcode.io](https://aiforcode.io) | 6.8K | AI coding tools directory (benchmarks, quizzes, 120+ comparisons) |
-| [aipmtools.org](https://aipmtools.org) | 1.6K | AI PM tools directory (weighted rubric scoring, 65+ tools) |
-
-74 technical articles on [Medium](https://kaushikvr06.medium.com/): 26.8K views, 9.6K reads, 348 followers.
+Now building a solo bootstrapped applied science business scaled through AI-agent orchestrated workflows. Also exploring full-time research (PhD) opportunities in applied Computer Science. More details on my [personal website](https://kaushikrajan.me)
 
 ---
 
