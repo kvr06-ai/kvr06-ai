@@ -18,7 +18,7 @@ MS Computer Science (NC State) · [kaushikrajan.me](https://kaushikrajan.me) · 
 ### At a Glance
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Upstream_PRs_Merged-3-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Upstream_PRs_Merged-5-2563eb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Research_Projects-4-059669?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Publications-5+-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Interactive_Demos-7-d97706?style=for-the-badge" />
@@ -36,7 +36,7 @@ Contributing to research-grade open source in causal inference, game theory, and
 
 **Merged:** [dspy](https://github.com/stanfordnlp/dspy) (Stanford, 33K ⭐) · [optuna](https://github.com/optuna/optuna) (13.7K ⭐) · [statsmodels](https://github.com/statsmodels/statsmodels) (11K ⭐)
 
-**In Review:** [open_spiel](https://github.com/google-deepmind/open_spiel) (DeepMind, 5.1K ⭐) · [dowhy](https://github.com/py-why/dowhy) (PyWhy, 8K ⭐) · [spaCy](https://github.com/explosion/spaCy) (33K ⭐) · [diffusers](https://github.com/huggingface/diffusers) (HuggingFace, 33K ⭐) · [instructor](https://github.com/instructor-ai/instructor) (12.5K ⭐)
+**In Review:** [open_spiel](https://github.com/google-deepmind/open_spiel) (DeepMind, 5.1K ⭐) · [langgraph](https://github.com/langchain-ai/langgraph) (LangChain, 26.4K ⭐) · [dowhy](https://github.com/py-why/dowhy) (PyWhy, 8K ⭐) · [spaCy](https://github.com/explosion/spaCy) (33K ⭐) · [diffusers](https://github.com/huggingface/diffusers) (HuggingFace, 33K ⭐) · [instructor](https://github.com/instructor-ai/instructor) (12.5K ⭐) · [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) (Anthropic, 5.4K ⭐)
 
 ---
 
@@ -53,7 +53,7 @@ Contributing to research-grade open source in causal inference, game theory, and
 
 Educational demos exploring ML/RL concepts through interactive visualization:
 
-[gradient-descent](https://github.com/kvr06-ai/gradient-descent) · [object-detection](https://github.com/kvr06-ai/object-detection) · [multi-agent-rl-sim](https://github.com/kvr06-ai/multi-agent-rl-sim) · [multi-armed-bandits-explorer](https://github.com/kvr06-ai/multi-armed-bandits-explorer) · [rl-pong](https://github.com/kvr06-ai/rl-pong) · [rl-capture-the-flag](https://github.com/kvr06-ai/rl-capture-the-flag)
+[gradient-descent](https://github.com/kvr06-ai/gradient-descent) · [object-detection](https://github.com/kvr06-ai/object-detection) · [multi-agent-rl-sim](https://github.com/kvr06-ai/multi-agent-rl-sim) · [multi-armed-bandits-explorer](https://github.com/kvr06-ai/multi-armed-bandits-explorer) · [rl-pong](https://github.com/kvr06-ai/rl-pong) · [rl-connect-four](https://github.com/kvr06-ai/rl-connect-four) · [rl-capture-the-flag](https://github.com/kvr06-ai/rl-capture-the-flag)
 
 ---
 
