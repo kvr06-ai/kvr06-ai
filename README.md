@@ -34,9 +34,35 @@ MS Computer Science (NC State) · [kaushikrajan.me](https://kaushikrajan.me) · 
 
 Contributing to research-grade open source in causal inference, game theory, and ML infrastructure:
 
-**Merged:** [dspy](https://github.com/stanfordnlp/dspy) (Stanford, 33K ⭐) · [optuna](https://github.com/optuna/optuna) (13.7K ⭐) · [statsmodels](https://github.com/statsmodels/statsmodels) (11K ⭐)
+**Merged:**
 
-**In Review:** [open_spiel](https://github.com/google-deepmind/open_spiel) (DeepMind, 5.1K ⭐) · [langgraph](https://github.com/langchain-ai/langgraph) (LangChain, 26.4K ⭐) · [dowhy](https://github.com/py-why/dowhy) (PyWhy, 8K ⭐) · [spaCy](https://github.com/explosion/spaCy) (33K ⭐) · [diffusers](https://github.com/huggingface/diffusers) (HuggingFace, 33K ⭐) · [instructor](https://github.com/instructor-ai/instructor) (12.5K ⭐) · [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) (Anthropic, 5.4K ⭐)
+| Project | PR | Description | Merged |
+|:--------|:---|:------------|:-------|
+| [dspy](https://github.com/stanfordnlp/dspy) (Stanford) | [#9317](https://github.com/stanfordnlp/dspy/pull/9317) | Fix metric_threshold in BootstrapFewShot | Feb 2026 |
+| [optuna](https://github.com/optuna/optuna) | [#6504](https://github.com/optuna/optuna/pull/6504) | Correct return type annotations for Axes | Mar 2026 |
+| [statsmodels](https://github.com/statsmodels/statsmodels) | [#9372](https://github.com/statsmodels/statsmodels/pull/9372) | Fix docstring formula display in SVAR class | Oct 2024 |
+
+**In Review:**
+
+| Project | PR | Description |
+|:--------|:---|:------------|
+| [open_spiel](https://github.com/google-deepmind/open_spiel) (DeepMind) | [#1495](https://github.com/google-deepmind/open_spiel/pull/1495) | Document 37 undocumented State/Game methods |
+| [spaCy](https://github.com/explosion/spaCy) | [#13932](https://github.com/explosion/spaCy/pull/13932) | Fix memory_zone cleanup on exception |
+| [diffusers](https://github.com/huggingface/diffusers) (HuggingFace) | [#13246](https://github.com/huggingface/diffusers/pull/13246) | Fix double-shifted sigma in FlowMatchEulerDiscreteScheduler |
+| [dowhy](https://github.com/py-why/dowhy) (PyWhy) | [#1394](https://github.com/py-why/dowhy/pull/1394) | Fix binary/categorical treatment on NumPy ≥2.4 |
+| [langgraph](https://github.com/langchain-ai/langgraph) (LangChain) | [#7020](https://github.com/langchain-ai/langgraph/pull/7020) | Add missing None to aupdate_state values type |
+| [langgraph](https://github.com/langchain-ai/langgraph) (LangChain) | [#7019](https://github.com/langchain-ai/langgraph/pull/7019) | Skip caching ERROR/INTERRUPT writes in SyncPregelLoop |
+| [instructor](https://github.com/567-labs/instructor) | [#2091](https://github.com/567-labs/instructor/pull/2091) | Handle PEP 604 union types in Partial streaming |
+| [instructor](https://github.com/567-labs/instructor) | [#2090](https://github.com/567-labs/instructor/pull/2090) | Token budget for retries + validator injection mitigation |
+| [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) (Anthropic) | [#664](https://github.com/anthropics/claude-agent-sdk-python/pull/664) | Note TypedDict runtime dict behavior in types.py |
+
+**Ecosystem:**
+
+| Project | PR | Description | Status |
+|:--------|:---|:------------|:-------|
+| [awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) | [#267](https://github.com/jamesmurdza/awesome-ai-devtools/pull/267) | Add aiforcode.io | Merged |
+| [awesome-ai-tools](https://github.com/pingan8787/awesome-ai-tools) | [#32](https://github.com/pingan8787/awesome-ai-tools/pull/32) | Add aiforcode.io | Merged |
+| [ai-directories](https://github.com/best-of-ai/ai-directories) | [#244](https://github.com/best-of-ai/ai-directories/pull/244) | Add aiforcode.io | Open |
 
 ---
 
